@@ -67,17 +67,6 @@ Top predictors identified by the model:
 - Imbalanced-learn (SMOTE)
 - Streamlit
 
-## Project Structure
-student-dropout-prediction/
-│
-├── student_dropout.ipynb              # Main notebook
-├── app.py                             # Streamlit web application
-├── requirements.txt                   # Dependencies
-├── dropout_model.pkl                  # Saved trained model
-├── dropout_scaler.pkl                 # Saved feature scaler
-├── dataset.csv                        # Dataset
-└── README.md
-
 ## Limitations
 - Dataset is from a Portuguese university — may not generalise across all educational contexts
 - Model should be used as an early warning tool alongside professional academic advising
