@@ -57,7 +57,7 @@ Top predictors identified by the model:
 4. **International student status (0.94)** — international students face elevated risk
 
 ## Live Demo
-🚀 **[Try the Student Dropout Risk Prediction App](#)** — *(link coming soon)*
+🚀 **[Try the Student Dropout Risk Prediction App](#)** — *(https://ibuchukwu-student-dropout.streamlit.app/))*
 
 ## Tech Stack
 - Python
